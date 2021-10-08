@@ -6,5 +6,5 @@
 - Revenue per Transaction -> GAMMA GAMMA Model
 
 ### 🚀 Data Source:
-- Online Retail Data: shorturl.at/ijDHM
+- Online Retail Data: https://bit.ly/3uS4A7w
 
