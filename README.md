@@ -1,5 +1,5 @@
 # ✨Customer Lifetime Value Prediction
-![image](https://user-images.githubusercontent.com/67474818/136591470-f67ed23f-517d-4c2c-b356-dcf80b6507d5.png)
+![1](https://user-images.githubusercontent.com/67474818/136609243-ab709b89-5d96-462a-9834-bc54169bc901.gif)
 
 ## CLV = [Expected Number of Transaction] * [Revenue per Transaction] * [Margin]
 - Expected Number of Transaction -> Beta Geometric Negative Binomial Distribution Model
